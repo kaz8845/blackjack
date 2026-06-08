@@ -1,0 +1,2 @@
+# No external dependencies are required to run the application.
+# Tkinter is included with most standard Python distributions.
